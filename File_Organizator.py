@@ -39,7 +39,7 @@ class fileOrganizator:
                 '.rs', '.swift', '.kt', '.kts', '.m', '.scala'
             ],
             'Archive': [
-                '.zip', '.rar', '.7z', '.tar', '.gz', '.bz2', '.xz', '.iso', '.dmg'
+                '.zip', '.rar', '.7z', '.tar', '.gz', '.bz2', '.xz', '.iso', '.dmg','.inf'
             ],
             'Executable': [
                 '.exe', '.msi', '.bat', '.cmd', '.apk', '.app'
